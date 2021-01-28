@@ -20,7 +20,7 @@ button {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: darkorange;
   min-height: 100vh;
   /* min-height: ; */
   display: flex;
@@ -74,14 +74,14 @@ input {
 .Search-Button {
   width: 100%;
   padding: 15px;
-  background-color: darkorange;
+  background-color: rgb(0, 255, 238);
   color: #091526;
-  border: 1px solid darkorange;
+  border: 1px solid rgb(0, 255, 251);
 }
 
 .Search-Button:hover {
   background-color: #091526;
-  color: orange;
+  color: rgb(0, 229, 255);
 }
 
 .Chuck-Logo {
