@@ -78,6 +78,13 @@ input {
   color: #091526;
   border: 1px solid darkorange;
 }
+.Layout-Button{
+  width: 100%;
+  padding: 15px;
+  background-color:  #091526;
+  color: whitesmoke;
+  border: 1px solid green;
+}
 
 .Search-Button:hover {
   background-color: #091526;
